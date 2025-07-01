@@ -20,7 +20,7 @@ A simple Android application for managing a contact list. This project demonstra
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/parjanya-rajput/ContactListRoom.git
+   git clone https://github.com/parjanya-rajput/Contacts.git
    ```
 
 2. **Open in Android Studio** and let Gradle sync.
